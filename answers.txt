@@ -1,0 +1,13 @@
+a. 3 commits have been done to the repository.
+b. 8/24/2015 at 12:19 pm
+c. There were no files in this repository because the original commit was 2 days later
+D. src/HardwoodSellerC.cpp | 32 ++++++++++++++++++++++++++++++++ 
+ src/WoodItem.cpp        | 27 +++++++++++++++++++++++++++ 
+ src/WoodItem.h          | 31 +++++++++++++++++++++++++++++++
+ 3 files changed, 90 insertions(+) 
+
+e. git log is a review of all commits in order, kind of like a history, and git status shows you what you are currently working on.
+f. git log --follow main.java 
+g. git log >> grep ='transaction'
+h. git log  --author = "Lauren" --since "OCT 4 2011" --until "OCT 11 2011" --pretty=format:"%H" 
+
