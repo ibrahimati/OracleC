@@ -1,0 +1,16 @@
+This is a paragraph about a pargraph. There once was a paragraph in a book. It had it's own characteristics and was unique in its own right.
+However, it was a short linking paragraph and wanted to be more eventful like its brothers. 
+It laid around and pouted for a while until one day it disappeared. Readers woud open the book and would fail
+to understand was going on. The ending was ruined for them and they pouted angrily about a lack of suspense and
+a lapse in information. The pargraph watched from afar and realized its worth as did its brothers. So paragraph 
+returned to the delight of all other paragraphs and readers and fromthen it happily linked and stayed in the 
+middle while readers enjoyed it and fellow paragraphs cheered it on.
+
++On branch master  
++Your branch is ahead of 'origin/master' by 2 commits.  
++  (use "git push" to publish your local commits)  
++  
++Changes to be committed:  
++  (use "git reset HEAD <file>..." to unstage)  
++  
++	new file:   book.txt  
